@@ -1,0 +1,1 @@
+To run this project, just type node hello.js from the root of the project in the terminal.
